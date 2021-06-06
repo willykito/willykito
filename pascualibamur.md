@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @willykito
+- 👀 I’m interested in  todo tipo de programación
+- 🌱 I’m currently learning  python
+- 💞️ I’m looking to collaborate on proyectos de python como  junior para empezar en este mundo
+- 📫 How to reach me a través del e-mail pascualibamur@gmail.com
